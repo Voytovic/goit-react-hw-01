@@ -53,7 +53,7 @@
 }
 
 .user-stats::before {
-  content: "";
+  content: '';
   position: absolute;
   top: -2px;
   left: 0;
@@ -88,7 +88,7 @@
 }
 
 .user-stats li::after {
-  content: "";
+  content: '';
   position: absolute;
   right: -10px;
   top: 0;
